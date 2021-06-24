@@ -113,7 +113,7 @@ I will only need to pass the tests to gain entry in the NAVY, from there I will 
 <p>- A 10m underwater swim in overalls</p>
 <p>- A 50m swim using three safety strokes</p>
 <p>- The ability to tread water or float for 15 mins in overalls</p>
-<br></br>
+<br>
 <p>Adept knowledge in </p>
 
 <p>- Operating complex telecommunicationTechnology systems </p>
