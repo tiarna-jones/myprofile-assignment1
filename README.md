@@ -1,14 +1,3 @@
-![meandmason](https://user-images.githubusercontent.com/85853827/123204993-74b81400-d4fc-11eb-823e-335b556c6f0c.jpg)
-![myfamily](https://user-images.githubusercontent.com/85853827/123204997-7681d780-d4fc-11eb-8189-727d5c132371.jpg)
-
-![mykids](https://user-images.githubusercontent.com/85853827/123205006-7aadf500-d4fc-11eb-8e7f-73155d7d1159.jpg)
-![sisters](https://user-images.githubusercontent.com/85853827/123205010-7b468b80-d4fc-11eb-9f03-d01bbf69c553.jpg)
-
-![drone](https://user-images.githubusercontent.com/85853827/123205689-b1383f80-d4fd-11eb-92f5-e16d594ff3c7.jpg)
-
-
-
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -31,7 +20,7 @@
 <br></br>
 
 
-<img src="pic_trulli.jpg" alt="Trulli" width="700" height="444">
+![sisters](https://user-images.githubusercontent.com/85853827/123205010-7b468b80-d4fc-11eb-9f03-d01bbf69c553.jpg)
 <h4>Sisters - Tiarna (youngest), Jessica (oldest)Jamie (middle)</h4>
 <br></br>
 <br></br>
@@ -45,7 +34,12 @@
 <br>We are a very tall family, and my children tower over the other kids their age.</p>
 <br></br>
 <br></br>
-<img src="pic_trulli.jpg" alt="Trulli" width="700" height="444"><h4>My Family - Mason, Tiarna, Justin, Memphys</h4><img src="pic_trulli.jpg" alt="Trulli" width="700" height="444"><h4>Memphys and Mason</h4><img src="pic_trulli.jpg" alt="Trulli" width="700" height="444">
+![myfamily](https://user-images.githubusercontent.com/85853827/123204997-7681d780-d4fc-11eb-8189-727d5c132371.jpg)
+<h4>Mason, Tiarna, Justin, Memphys</h4>
+![mykids](https://user-images.githubusercontent.com/85853827/123205006-7aadf500-d4fc-11eb-8e7f-73155d7d1159.jpg)
+<h4>Memphys and Mason</h4>
+
+![meandmason](https://user-images.githubusercontent.com/85853827/123204993-74b81400-d4fc-11eb-823e-335b556c6f0c.jpg)
 <h4>Mason and Tiarna</h4>
 <br></br>
 
