@@ -5,7 +5,7 @@
 <h3>Student Number: s3917038</h3>
 <h3>Email: s3917038@student.rmit.edu.au</h3>
 <h3>Education: Year 11 Certificate, RSA Certificate, RSG Certificate</h3>
-<br></br>
+<br>
 <h2>PERSONAL INFORMATION:</h2>
 
 <p>Born in 1990 in Tweed Heads Hospital, NSW, Australia, I have lived on the Gold Coast my whole life.
@@ -16,14 +16,14 @@
 
 <h4>Cousins - left to right - Christian, Bradley, Tiffany, Ayden, Meliyah, Jorjie, Memphys, Charlize, Mason, Lailani, Sienna, Riley, Sahara.</h4>
 
-<br></br>
-<br></br>
+<br>
+<br>
 
 
 ![sisters](https://user-images.githubusercontent.com/85853827/123205010-7b468b80-d4fc-11eb-9f03-d01bbf69c553.jpg)
 <h4>Sisters - Tiarna (youngest), Jessica (oldest)Jamie (middle)</h4>
-<br></br>
-<br></br>
+<br>
+<br>
 
 <p>I attended Palm Beach Currumbin High School, where I immersed myself in the Sports Excellence Program paying basketball.
 <br>I also played competitively outside of school with club basketball and Gold Coast basketball.
@@ -32,8 +32,8 @@
 
 <p>I have been happily married to my husband Justin since 2016 and have 2 beautiful children, my 4 year old daughter Memphys and my 1.5 year old son Mason.
 <br>We are a very tall family, and my children tower over the other kids their age.</p>
-<br></br>
-<br></br>
+<br>
+<br>
 ![myfamily](https://user-images.githubusercontent.com/85853827/123206384-f01ac500-d4fe-11eb-9471-afb45fee3ca2.jpg)
 <h4>Mason, Tiarna, Justin, Memphys</h4>
 ![mykids](https://user-images.githubusercontent.com/85853827/123206409-fb6df080-d4fe-11eb-93d4-b210760bd1c0.jpg)
@@ -42,7 +42,7 @@
 
 ![meandmason](https://user-images.githubusercontent.com/85853827/123204993-74b81400-d4fc-11eb-823e-335b556c6f0c.jpg)
 <h4>Mason and Tiarna</h4>
-<br></br>
+<br>
 
 
 <p>Justin and I own a realestate marketing franchise, called Open2View.<br>
@@ -51,7 +51,7 @@
 <br>3D tours, matter ports, signboards and print ect with a next day turn around for most of our products. <br>
 <br>Justin goes on site to take the photos, videos and draw up the floor plans while I work from home handling the administration side, <br>
 <br>editing the photos and drawing the floor plans up on templates.</p>
-<br></br>
+<br>
 ![drone](https://user-images.githubusercontent.com/85853827/123205689-b1383f80-d4fd-11eb-92f5-e16d594ff3c7.jpg)
 <h4>Drone Photography by Open2View - Photographer Justin Jones</h4>
 <h2>INTERESTS IN IT</h1>
@@ -142,7 +142,7 @@ I will only need to pass the tests to gain entry in the NAVY, from there I will 
 <p>- Australia Citizen </p>
 <p>- Security clearance </p>
 
-<br></br>
+<br>
 
 <h3>Skills I will need - </h3>
 
@@ -164,13 +164,13 @@ I will only need to pass the tests to gain entry in the NAVY, from there I will 
 <p>- Fire and rescue </p>
 <p>- Force protection </p>
 <p>- Combat survivability</p>
-<br></br>
+<br>
 <img src="pic_trulli.jpg" alt="Trulli" width="700" height="444">
 <img src="pic_trulli.jpg" alt="Trulli" width="700" height="444">
 <img src="pic_trulli.jpg" alt="Trulli" width="700" height="444">
 <img src="pic_trulli.jpg" alt="Trulli" width="700" height="444">
 <img src="pic_trulli.jpg" alt="Trulli" width="700" height="444">
-<br></br>
+<br>
 <h2>PROJECT IDEA</h2>
 <h3>OVERVIEW -</h3>
 <p>An application you will be able to download on your smartphone or tablet. 
@@ -214,7 +214,7 @@ You will be able to create book lists and select the description of these lists 
   <br>read alongs that you will be able to start at any time by yourself or with one or more users on the app. <br>
 <br>If you opt in you will be notified of other book lovers that are in your area and you can decide if you want to message and add them as a friend. <br>
   <br>You could also choose if you would like to start a book club either virtually or in person. </p>
-<br></br>
+<br>
 <p>Book Challenge examples-  daily, weekly, monthly and yearly challenges. </p>
 <p>- A book that makes you laugh</p>
 <p>- A book that makes you cry</p>
@@ -225,7 +225,7 @@ You will be able to create book lists and select the description of these lists 
 <p>- A new Author</p>
 <p>- A new genre</p>
 <p>- ect.</p>
-<br></br>
+<br>
 
 <p>Book Games example- (compete against other readers)</p>
 <p>- Reading Bingo</p>
@@ -233,9 +233,9 @@ You will be able to create book lists and select the description of these lists 
 <p>- Reading Tic-Tac-Toe</p>
 <p>- Reading Connect 4</p>
 <p>- ect.</p>
-<br></br>
+<br>
 <p>This app will be a free App </p>
-<br></br>
+<br>
 <h3>Tools and Technology - </h3>
 <p>You could create this app by hiring a specialist app development company like Disciple. But while this may be an easy option it can also be very expensive. </p>
 <p>If you are creating from scratch the tools below will help you, made for both IOS and Android mobile. </p> 
@@ -266,7 +266,7 @@ You will be able to create book lists and select the description of these lists 
 <p>The skills required to personally create this app will be gained from studying numerous courses/classes 
   <br>in programming and app development and gaining a Degree in Information and Technology to receive extensive knowledge.</p>
 
-<br></br>
+<br>
 
 <h1>PERSONAL PROFILE</h1>
 <img src=" alt="Trulli" width="700" height="444">
@@ -287,7 +287,7 @@ Im a visual learner which is accurate, over the years when I was learning things
 <p>As I feel more comfortable being deligated tasks, I would need to ensure that my team has a good strong leader, that knows the aspects of the tasks that our group would need to accomplish.
 I should also find a team that is happy to show me the ropes when I don’t understand a concept. 
 <p>
-<br></br>
+<br>
 <h3>References: </h3>
 
 <p>https://www.16personalities.com/free-personality-test - 17/06/21<p>
