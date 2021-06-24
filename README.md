@@ -54,7 +54,8 @@
 <br>
 ![drone](https://user-images.githubusercontent.com/85853827/123205689-b1383f80-d4fd-11eb-92f5-e16d594ff3c7.jpg)
 <h4>Drone Photography by Open2View - Photographer Justin Jones</h4>
-<h2>INTERESTS IN IT</h1>
+  
+<h2>INTERESTS IN IT</h2>
 <p>I have decided to pursue IT, as my work requires me to be on the computer 100% of the working day. 
   <br>The main programs we use on our Mac are Firefox, Adobe photoshop, Adobe Bridge, notes and mail.
   <br>As there are numerous apps/ tabs open at the same time, we are always having technical issues with our computer, like lagging, computer freezing and randomly shutting down. 
